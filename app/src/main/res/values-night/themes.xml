@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SubsError.Dark" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/dark_md_theme_primary</item>
+        <item name="colorOnPrimary">@color/dark_md_theme_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/dark_md_theme_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/dark_md_theme_onPrimaryContainer</item>
+
+        <!-- Secondary color settings. -->
+        <item name="colorSecondary">@color/dark_md_theme_secondary</item>
+        <item name="colorOnSecondary">@color/dark_md_theme_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/dark_md_theme_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/dark_md_theme_onSecondaryContainer</item>
+
+
+        <!-- Additional customization here -->
+    </style>
+</resources>
